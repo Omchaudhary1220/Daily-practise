@@ -1,4 +1,4 @@
-//function
+
 class Solution {
   public:
    inline long long cube(long long n){
