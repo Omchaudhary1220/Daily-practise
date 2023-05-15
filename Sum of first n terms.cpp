@@ -1,4 +1,4 @@
-
+Link:- https://practice.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1
 class Solution {
   public:
    inline long long cube(long long n){
